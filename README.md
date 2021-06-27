@@ -1,2 +1,2 @@
 # Enghack-Python-Quest
-For ENGHacks 2021
+For ENGHack 2021, where we put our files that were used
