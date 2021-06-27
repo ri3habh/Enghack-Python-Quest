@@ -54,6 +54,13 @@
 .main{
     width: 750px;
 }
+#CovInfo-Logo{
+    position: absolute;
+    top: 8px;
+    left: 16px;
+    width: 100px;
+    height: auto;
+}
 select{
     display: inline-flex;
     align-items: center;
